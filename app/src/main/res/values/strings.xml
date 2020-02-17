@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AvatarGameDemo</string>
+    <string name="title_play_activity">Play Avatar</string>
+</resources>
